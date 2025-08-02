@@ -7,13 +7,13 @@
 | I        | Analiza Si Modelarea Sistemelor Software (AMSS)                  | 2 | 1 | - | - | E  | 6       |
 | I        | Managementul Si Organizarea Proiectelor Software (MOPS)          | 2 | 1 | - | - | E  | 6       |
 | I        | Optional 1                                                       | 2 | 1 | - | - | E  | 6       |
-| I        | Practică Industriala/De Cercetare                                | - | 2 | - | 1 | V  | 4       |
+| I        | Practica Industriala/De Cercetare                                | - | 2 | - | 1 | V  | 4       |
 | I        | Etica Si Integritate Academica (EIA)                             | 1 | - | - | - | V  | 2       |
 | II       | Tehnici Avansate De Programare (TAP)                             | 2 | 1 | - | - | E  | 6       |
 | II       | Arhitectura Sistemelor Software (ASS)                            | 2 | 1 | - | - | E  | 6       |
 | II       | Experienta De Utilizare Si Interactiunea Cu Utilizatorul (UX/UI) | 2 | 1 | - | - | E  | 6       |
 | II       | Optional 2                                                       | 2 | 1 | - | - | E  | 6       |
-| II       | Practică Industriala/De Cercetare                                | - | 2 | - | 1 | V  | 6       |
+| II       | Practica Industriala/De Cercetare                                | - | 2 | - | 1 | V  | 6       |
 
 
 ### Year II
