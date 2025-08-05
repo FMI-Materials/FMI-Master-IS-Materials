@@ -3,9 +3,9 @@
 - Sisteme De Baze De Date
 - [Programare Web Utilizand Tehnologii Java](https://github.com/FMI-Materials/FMI-Master-BDTS-Materials/tree/main/Year%20I/Semester%20I/Programare%20Web%20Utilizand%20Tehnologii%20Java)
 - Data Mining Si Knowledge Discovery
-- Practical Machine Learning
-- Probabilistic Programming
-- Knowledge Representations And Reasoning
+- [Practical Machine Learning](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20I/Semester%20I/Practical%20Machine%20Learning)
+- [Probabilistic Programming](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20I/Semester%20I/Probabilistic%20Programming)
+- [Knowledge Representations And Reasoning](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20I/Semester%20I/Probabilistic%20Programming)
 - Programare Paralela
 - [Operating Systems Design And Security](https://github.com/FMI-Materials/FMI-Master-SAL-Materials/tree/main/Year%20I/Semester%20I/Operating%20Systems%20Design%20And%20Security)
 - [Advanced Cryptography](https://github.com/FMI-Materials/FMI-Master-SAL-Materials/tree/main/Year%20I/Semester%20I/Advanced%20Cryptography)
